@@ -146,6 +146,8 @@
     text-decoration: none;
     display: inline-block;
     font-size: 1rem;
+    box-sizing: border-box;
+    white-space: nowrap;
 }
 
 .btn-primary {
@@ -189,11 +191,14 @@
     
     .form-actions {
         flex-direction: column;
+        gap: 0.75rem;
     }
     
     .btn {
         width: 100%;
         text-align: center;
+        padding: 0.75rem 1rem;
+        font-size: 0.9rem;
     }
 }
 
