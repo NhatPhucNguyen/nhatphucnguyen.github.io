@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://NhatPhucNguyen.github.io/portfolio-modern",
+  "homepage": "https://nhatphucnguyen.github.io",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
